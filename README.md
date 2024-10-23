@@ -61,3 +61,5 @@ Los productos disponibles en las tiendas pueden variar según la ciudad, y cada 
 
 ## Consideraciones:
 El código deberá contar con buenas prácticas de programación, asegurando un manejo correcto de errores y excepciones. Además, se deben implementar las pruebas unitarias correspondientes para cada funcionalidad descrita, validando su correcto funcionamiento.
+
+![Diagrama de Clases UML](img.png)
